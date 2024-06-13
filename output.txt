@@ -1,0 +1,277 @@
+Given Paper: Observation of Gravitational Waves from a Binary Black Hole Merger
+
+Abstract: On September 14, 2015 at 09:50:45 UTC the two detectors of the Laser Interferometer Gravitational-Wave Observatory simultaneously observed a transient gravitational-wave signal. The signal sweeps upwards in frequency from 35 to 250 Hz with a peak gravitational-wave strain of $1.0 \times 10^{-21}$. It matches the waveform predicted by general relativity for the inspiral and merger of a pair of black holes and the ringdown of the resulting single black hole. The signal was observed with a matched-filter signal-to-noise ratio of 24 and a false alarm rate estimated to be less than 1 event per 203 000 years, equivalent to a significance greater than 5.1 {\sigma}. The source lies at a luminosity distance of $410^{+160}_{-180}$ Mpc corresponding to a redshift $z = 0.09^{+0.03}_{-0.04}$. In the source frame, the initial black hole masses are $36^{+5}_{-4} M_\odot$ and $29^{+4}_{-4} M_\odot$, and the final black hole mass is $62^{+4}_{-4} M_\odot$, with $3.0^{+0.5}_{-0.5} M_\odot c^2$ radiated in gravitational waves. All uncertainties define 90% credible intervals.These observations demonstrate the existence of binary stellar-mass black hole systems. This is the first direct detection of gravitational waves and the first observation of a binary black hole merger.
+
+Predicted Cluster: 4
+
+Title: Observation of Gravitational Waves from a Binary Black Hole Merger
+
+Abstract:   On September 14, 2015 at 09:50:45 UTC the two detectors of the Laser
+Interferometer Gravitational-Wave Observatory simultaneously observed a
+transient gravitational-wave signal. The signal sweeps upwards in frequency
+from 35 to 250 Hz with a peak gravitational-wave strain of $1.0 \times
+10^{-21}$. It matches the waveform predicted by general relativity for the
+inspiral and merger of a pair of black holes and the ringdown of the resulting
+single black hole. The signal was observed with a matched-filter
+signal-to-noise ratio of 24 and a false alarm rate estimated to be less than 1
+event per 203 000 years, equivalent to a significance greater than 5.1
+{\sigma}. The source lies at a luminosity distance of $410^{+160}_{-180}$ Mpc
+corresponding to a redshift $z = 0.09^{+0.03}_{-0.04}$. In the source frame,
+the initial black hole masses are $36^{+5}_{-4} M_\odot$ and $29^{+4}_{-4}
+M_\odot$, and the final black hole mass is $62^{+4}_{-4} M_\odot$, with
+$3.0^{+0.5}_{-0.5} M_\odot c^2$ radiated in gravitational waves. All
+uncertainties define 90% credible intervals.These observations demonstrate the
+existence of binary stellar-mass black hole systems. This is the first direct
+detection of gravitational waves and the first observation of a binary black
+hole merger.
+
+
+Link: https://arxiv.org/abs/1602.03837
+
+Similarity: 1.0
+
+
+Title: GW170608: Observation of a 19-solar-mass Binary Black Hole Coalescence
+
+Abstract:   On June 8, 2017 at 02:01:16.49 UTC, a gravitational-wave signal from the
+merger of two stellar-mass black holes was observed by the two Advanced LIGO
+detectors with a network signal-to-noise ratio of 13. This system is the
+lightest black hole binary so far observed, with component masses
+$12^{+7}_{-2}\,M_\odot$ and $7^{+2}_{-2}\,M_\odot$ (90% credible intervals).
+These lie in the range of measured black hole masses in low-mass X-ray
+binaries, thus allowing us to compare black holes detected through
+gravitational waves with electromagnetic observations. The source's luminosity
+distance is $340^{+140}_{-140}$ Mpc, corresponding to redshift
+$0.07^{+0.03}_{-0.03}$. We verify that the signal waveform is consistent with
+the predictions of general relativity.
+
+
+Link: https://arxiv.org/abs/1711.05578
+
+Similarity: 0.8064059615135193
+
+
+Title: Binary Black Hole Mergers in the first Advanced LIGO Observing Run
+
+Abstract:   The first observational run of the Advanced LIGO detectors, from September
+12, 2015 to January 19, 2016, saw the first detections of gravitational waves
+from binary black hole mergers. In this paper we present full results from a
+search for binary black hole merger signals with total masses up to $100
+M_\odot$ and detailed implications from our observations of these systems. Our
+search, based on general-relativistic models of gravitational wave signals from
+binary black hole systems, unambiguously identified two signals, GW150914 and
+GW151226, with a significance of greater than $5\sigma$ over the observing
+period. It also identified a third possible signal, LVT151012, with
+substantially lower significance, and with an 87% probability of being of
+astrophysical origin. We provide detailed estimates of the parameters of the
+observed systems. Both GW150914 and GW151226 provide an unprecedented
+opportunity to study the two-body motion of a compact-object binary in the
+large velocity, highly nonlinear regime. We do not observe any deviations from
+general relativity, and place improved empirical bounds on several high-order
+post-Newtonian coefficients. From our observations we infer stellar-mass binary
+black hole merger rates lying in the range $9-240 \mathrm{Gpc}^{-3}
+\mathrm{yr}^{-1}$. These observations are beginning to inform astrophysical
+predictions of binary black hole formation rates, and indicate that future
+observing runs of the Advanced detector network will yield many more
+gravitational wave detections.
+
+
+Link: https://arxiv.org/abs/1606.04856
+
+Similarity: 0.7940992712974548
+
+
+Title: On the Gravitational Wave Background from Black Hole Binaries after the
+  First LIGO Detections
+
+Abstract:   The detection of gravitational waves from the merger of binary black holes by
+the LIGO Collaboration has opened a new window to astrophysics. With the
+sensitivities of ground based detectors in the coming years we can only detect
+the local black hole binary mergers. The integrated merger rate can instead be
+probed by the gravitational-wave background, the incoherent superposition of
+the released energy in gravitational waves during binary-black-hole
+coalescence. Through that, the properties of the binary black holes can be
+studied. In this work we show that by measuring the energy density
+$\Omega_{GW}$ (in units of the cosmic critical density) of the
+gravitational-wave background, we can search for the rare $\sim 100 M_{\odot}$
+massive black holes formed in the Universe. In addition, we can answer how
+often the least massive BHs of mass $> 3 M_{\odot}$ form. Finally, if there are
+multiple channels for the formation of binary black holes and if any of them
+predicts a narrow mass range for the black holes, then the
+gravitational-wave-background spectrum may have features that with the future
+Einstein Telescope can be detected.
+
+
+Link: https://arxiv.org/abs/1609.03565
+
+Similarity: 0.7896105051040649
+
+
+Title: GW151226: Observation of Gravitational Waves from a 22-Solar-Mass Binary
+  Black Hole Coalescence
+
+Abstract:   We report the observation of a gravitational-wave signal produced by the
+coalescence of two stellar-mass black holes. The signal, GW151226, was observed
+by the twin detectors of the Laser Interferometer Gravitational-Wave
+Observatory (LIGO) on December 26, 2015 at 03:38:53 UTC. The signal was
+initially identified within 70 s by an online matched-filter search targeting
+binary coalescences. Subsequent off-line analyses recovered GW151226 with a
+network signal-to-noise ratio of 13 and a significance greater than 5 $\sigma$.
+The signal persisted in the LIGO frequency band for approximately 1 s,
+increasing in frequency and amplitude over about 55 cycles from 35 to 450 Hz,
+and reached a peak gravitational strain of $3.4_{-0.9}^{+0.7} \times 10^{-22}$.
+The inferred source-frame initial black hole masses are $14.2_{-3.7}^{+8.3}
+M_{\odot}$ and $7.5_{-2.3}^{+2.3} M_{\odot}$ and the final black hole mass is
+$20.8_{-1.7}^{+6.1} M_{\odot}$. We find that at least one of the component
+black holes has spin greater than 0.2. This source is located at a luminosity
+distance of $440_{-190}^{+180}$ Mpc corresponding to a redshift
+$0.09_{-0.04}^{+0.03}$. All uncertainties define a 90 % credible interval. This
+second gravitational-wave observation provides improved constraints on stellar
+populations and on deviations from general relativity.
+
+
+Link: https://arxiv.org/abs/1606.04855
+
+Similarity: 0.7864481210708618
+
+
+Title: Observing gravitational-wave transient GW150914 with minimal assumptions
+
+Abstract:   The gravitational-wave signal GW150914 was first identified on Sept 14 2015
+by searches for short-duration gravitational-wave transients. These searches
+identify time-correlated transients in multiple detectors with minimal
+assumptions aboutthe signal morphology, allowing them to be sensitive to
+gravitational waves emitted by a wide range of sources including binary
+black-hole mergers. Over the observational period from September 12th to
+October 20th 2015, these transient searches were sensitive to binary black-hole
+mergers similar to GW150914 to an average distance of $\sim 600$ Mpc. In this
+paper, we describe the analyses that first detected GW150914 as well as the
+parameter estimation and waveform reconstruction techniques that initially
+identified GW150914 as the merger of two black holes. We find that the
+reconstructed waveform is consistent with the signal from a binary black-hole
+merger with a chirp mass of $\sim 30 \, M_\odot$ and a total mass before merger
+of $\sim 70 \, M_\odot$ in the detector frame.
+
+
+Link: https://arxiv.org/abs/1602.03843
+
+Similarity: 0.7852141857147217
+
+
+Title: Properties of the Binary Black Hole Merger GW150914
+
+Abstract:   On September 14, 2015, the Laser Interferometer Gravitational-wave
+Observatory (LIGO) detected a gravitational-wave transient (GW150914); we
+characterize the properties of the source and its parameters. The data around
+the time of the event were analyzed coherently across the LIGO network using a
+suite of accurate waveform models that describe gravitational waves from a
+compact binary system in general relativity. GW150914 was produced by a nearly
+equal mass binary black hole of $36^{+5}_{-4} M_\odot$ and $29^{+4}_{-4}
+M_\odot$; for each parameter we report the median value and the range of the
+90% credible interval. The dimensionless spin magnitude of the more massive
+black hole is bound to be $<0.7$ (at 90% probability). The luminosity distance
+to the source is $410^{+160}_{-180}$ Mpc, corresponding to a redshift
+$0.09^{+0.03}_{-0.04}$ assuming standard cosmology. The source location is
+constrained to an annulus section of $610$ deg$^2$, primarily in the southern
+hemisphere. The binary merges into a black hole of $62^{+4}_{-4} M_\odot$ and
+spin $0.67^{+0.05}_{-0.07}$. This black hole is significantly more massive than
+any other inferred from electromagnetic observations in the stellar-mass
+regime.
+
+
+Link: https://arxiv.org/abs/1602.03840
+
+Similarity: 0.7742777466773987
+
+
+Title: GWTC-1: A Gravitational-Wave Transient Catalog of Compact Binary Mergers
+  Observed by LIGO and Virgo during the First and Second Observing Runs
+
+Abstract:   We present the results from three gravitational-wave searches for coalescing
+compact binaries with component masses above 1$\mathrm{M}_\odot$ during the
+first and second observing runs of the Advanced gravitational-wave detector
+network. During the first observing run (O1), from September $12^\mathrm{th}$,
+2015 to January $19^\mathrm{th}$, 2016, gravitational waves from three binary
+black hole mergers were detected. The second observing run (O2), which ran from
+November $30^\mathrm{th}$, 2016 to August $25^\mathrm{th}$, 2017, saw the first
+detection of gravitational waves from a binary neutron star inspiral, in
+addition to the observation of gravitational waves from a total of seven binary
+black hole mergers, four of which we report here for the first time: GW170729,
+GW170809, GW170818 and GW170823. For all significant gravitational-wave events,
+we provide estimates of the source properties. The detected binary black holes
+have total masses between $18.6_{-0.7}^{+3.2}\mathrm{M}_\odot$, and
+$84.4_{-11.1}^{+15.8} \mathrm{M}_\odot$, and range in distance between
+$320_{-110}^{+120}$ Mpc and $2840_{-1360}^{+1400}$ Mpc. No neutron star - black
+hole mergers were detected. In addition to highly significant
+gravitational-wave events, we also provide a list of marginal event candidates
+with an estimated false alarm rate less than 1 per 30 days. From these results
+over the first two observing runs, which include approximately one
+gravitational-wave detection per 15 days of data searched, we infer merger
+rates at the 90% confidence intervals of $110\, -\, 3840$
+$\mathrm{Gpc}^{-3}\,\mathrm{y}^{-1}$ for binary neutron stars and $9.7\, -\,
+101$ $\mathrm{Gpc}^{-3}\,\mathrm{y}^{-1}$ for binary black holes assuming fixed
+population distributions, and determine a neutron star - black hole merger rate
+90% upper limit of $610$ $\mathrm{Gpc}^{-3}\,\mathrm{y}^{-1}$.
+
+
+Link: https://arxiv.org/abs/1811.12907
+
+Similarity: 0.7737847566604614
+
+
+Title: The basic physics of the binary black hole merger GW150914
+
+Abstract:   The first direct gravitational-wave detection was made by the Advanced Laser
+Interferometer Gravitational Wave Observatory on September 14, 2015. The
+GW150914 signal was strong enough to be apparent, without using any waveform
+model, in the filtered detector strain data. Here, features of the signal
+visible in the data are analyzed using concepts from Newtonian physics and
+general relativity, accessible to anyone with a general physics background. The
+simple analysis presented here is consistent with the fully
+general-relativistic analyses published elsewhere,in showing that the signal
+was produced by the inspiral and subsequent merger of two black holes. The
+black holes were each of approximately 35 Msun, still orbited each other as
+close as ~350 km apart, and subsequently merged to form a single black hole.
+Similar reasoning, directly from the data, is used to roughly estimate how far
+these black holes were from the Earth, and the energy that they radiated in
+gravitational waves.
+
+
+Link: https://arxiv.org/abs/1608.01940
+
+Similarity: 0.7735799551010132
+
+
+Title: Detecting Gravitational Waves With Disparate Detector Responses: Two New
+  Binary Black Hole Mergers
+
+Abstract:   We introduce a new technique to search for gravitational wave events from
+compact binary mergers that produce a clear signal only in a single
+gravitational wave detector, and marginal signals in other detectors. Such a
+situation can arise when the detectors in a network have different
+sensitivities, or when sources have unfavorable sky locations or orientations.
+We start with a short list of loud single-detector triggers from regions of
+parameter space that are empirically unaffected by glitches (after applying
+signal-quality vetoes). For each of these triggers, we compute evidence for
+astrophysical origin from the rest of the detector network by coherently
+combining the likelihoods from all detectors and marginalizing over extrinsic
+geometric parameters. We report the discovery of two new binary black hole
+(BBH) mergers in the second observing run of Advanced LIGO and Virgo (O2), in
+addition to the ones that were reported in Abbott et al. (2018) and Venumadhav
+et al. (2019). We estimate that the two events have false alarm rates of one in
+19 years (60 O2) and one in 11 years (36 O2).
+  One of the events, GW170817A, has primary and secondary masses $m_1^{\rm src}
+= 56_{-10}^{+16} \, M_\odot$ and $m_2^{\rm src} = 40_{-11}^{+10} \, M_\odot$ in
+the source frame. The existence of GW170817A should be very informative about
+the theoretically predicted upper mass gap for stellar mass black holes. Its
+effective spin parameter is measured to be $\chi_{\rm eff} = 0.5 \pm 0.2$,
+which is consistent with the tendency of the heavier detected BBH systems to
+have large and positive effective spin parameters. The other event, GWC170402,
+will be discussed thoroughly in future work.
+
+
+Link: https://arxiv.org/abs/1910.09528
+
+Similarity: 0.7693055272102356
+
+

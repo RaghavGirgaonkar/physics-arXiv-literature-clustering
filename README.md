@@ -13,7 +13,7 @@ Install required packages
 
 1. Download ```arxiv-metadata-oai-snapshot.json``` from the [Kaggle arXiv dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv) to the same directory.
 
-2. Run ```clustering.ipynb`` to create dataset and encode text using Sentence Transformers models or TfidfVectorizer. 
+2. Run ```clustering.ipynb``` to create dataset and encode text using Sentence Transformers models or TfidfVectorizer. 
 
 ### Get similar papers
 
